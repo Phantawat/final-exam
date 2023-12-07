@@ -1,5 +1,6 @@
-# final-exam
-- From the starting code, polygon_art.py, you are to write an OO program that generates different pieces of art works
-- Fork, then, clone this repo
-- Read the instructions given in the course's Google Classroom and start coding
-- Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+# Polygon
+- The program is run by creating object for Polygon class then use play_art to 
+    run all program.
+- In class, we have 4 function such that draw_polygon, get_new_color, 
+    get_smaller_poygon and play_srt
+- I have correctly implemented all the code. NO BUGS :D so happy.
